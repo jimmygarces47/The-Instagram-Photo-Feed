@@ -1,0 +1,28 @@
+
+h1{
+    margin-left: 505px;
+    margin-right: 500px;
+  }
+  .cuerpo_pagina{
+    background: grey;
+      align-items: center;
+  }
+  .postcard{
+    background: white;
+    height: 510px;
+    width: 500px;
+    margin:10px 200px 5px 500px;
+  
+  }
+  img{
+    width: 500px;
+  }
+  
+  .tit2{
+  
+   float: right;
+  }
+  .par{
+  margin-top: 16px;
+  }
+  
